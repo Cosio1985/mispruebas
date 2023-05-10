@@ -2,4 +2,6 @@ otra prueba nueva
 felipe
 chancha
 
-datos de la noche 
+datos de la noche 9 DE MAYO
+
+SELECT * FROM ALGO WHERE ALGO=ALGO;
